@@ -1,0 +1,29 @@
+
+html{
+	height: 100%;
+	overflow: hidden;
+}
+
+body{
+	height: 100%;
+	font-family: 'monospace';
+	background-color: black;
+}
+
+#app{
+	height: 100%;
+	margin-top: 100px;
+}
+
+.custom-grey{
+	color: #d3d3d3;
+}
+
+.title{
+	margin-bottom: 50px;
+	margin-top: :50px;
+}
+
+.white{
+	color: white;
+}
