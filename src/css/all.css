@@ -1,7 +1,7 @@
 
 html{
 	height: 100%;
-	overflow: hidden;
+	overflow: auto;
 }
 
 body{
@@ -20,7 +20,7 @@ body{
 }
 
 .title{
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 	margin-top: :50px;
 }
 

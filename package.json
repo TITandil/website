@@ -6,8 +6,8 @@
     "version": "0.0.1",
     "main": "webpack-prod.config.js",
     "scripts": {
-        "build": "webpack --config webpack-prod.config.js --content-base src",
-        "dev": "webpack-dev-server --config webpack-dev.config.js --content-base src --inline --hot"
+        "start": "webpack-dev-server --config webpack-dev.config.js --content-base src --inline --hot",
+        "build": "webpack --config webpack-prod.config.js --content-base src"
     },
     "dependencies": {
         "async": "^2.0.0-rc.6",

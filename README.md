@@ -1,11 +1,10 @@
 # TITandil Website
 
-Sitio web de TITandil en titandil.com.ar
+Sitio web de TITandil en titandil.org
 
 ## Install
 
 `npm install`
-`bower install`
 
 ## Build
 
@@ -13,4 +12,4 @@ Ejecutar el comando `npm run build`.
 
 ## Develop
 
-Ejecutar el comando `npm run dev`.
+Ejecutar el comando `npm start`.
